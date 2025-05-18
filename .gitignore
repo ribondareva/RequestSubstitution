@@ -1,3 +1,4 @@
 .env
 .idea/
 venv311/
+__pychache__
